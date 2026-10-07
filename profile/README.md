@@ -1,4 +1,4 @@
-# 🌴 Hecho en Osa
+# 🌴 HECHO EN OSA
 
 Young builders from the Osa, aged 11–17, making real things with code. Eight weeks, one Demo Day on **Saturday 12 December 2026** (location to be announced). 
 For the Young builders with no experience, we have built a program **[Zero to Hero 2026 →](https://github.com/hechoenosa/zerotohero2026)** to get them through this Hackathon, build an amazing first idea into the world, and establish their first portfolio project on GitHub! 
